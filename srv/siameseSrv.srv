@@ -1,0 +1,4 @@
+sensor_msgs/Image Image1
+sensor_msgs/Image Image2
+---
+float32 similarity

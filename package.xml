@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>siamesenet</name>
+  <version>0.1.0</version>
+  <description>The siamesenet package</description>
+
+  <maintainer email="Jo@todo.todo">HyunJun Jo</maintainer>
+  <license>Apache 2.0</license>
+  <author>HyunJun Jo</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp </depend>
+  <depend>rospy</depend>
+  <depend>std_msgs </depend>
+  <depend>sensor_msgs </depend>
+  <build_depend>message_generation </build_depend>
+  <exec_depend>message_runtime </exec_depend>
+</package>

@@ -1,0 +1,2 @@
+roslaunch siamesenet siameseNet.launch
+rosrun siamesenet imgClient.py
