@@ -1,6 +1,6 @@
-# The ROS Package of SiameseNet
+## The ROS Package of SiameseNet
 
-This is a ROS package of [Siamesenet](https://arxiv.org/abs/1703.06870) algorithm.
+This is a ROS package of [Siamesenet](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) algorithm.
 
 The package contains ROS node of SiameseNet with service-based ROS interface.
 
